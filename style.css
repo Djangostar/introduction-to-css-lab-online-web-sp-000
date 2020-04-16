@@ -1,5 +1,5 @@
 /* Tag selector to select the 'body' element */
-selector {
+
 body {
   background:#00b3e6;
 }
@@ -19,4 +19,4 @@ div {
 .perspective-questions {
   /* Your code here! */
 }
-}
+}\
